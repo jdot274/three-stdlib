@@ -44,7 +44,7 @@
     "@types/offscreencanvas": "^2019.6.4",
     "@types/webxr": "^0.5.2",
     "draco3d": "^1.4.1",
-    "fflate": "^0.6.9",
+    "fflate": "^0.6.11",
     "potpack": "^1.0.1"
   },
   "peerDependencies": {

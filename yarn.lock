@@ -249,10 +249,10 @@ escalade@^3.1.1:
   resolved "https://registry.yarnpkg.com/escalade/-/escalade-3.1.1.tgz#d8cfdc7000965c5a0174b4a82eaa5c0552742e40"
   integrity sha512-k0er2gUkLf8O0zKJiAhmkTnJlTvINGv7ygDNPbeIsX/TJjGJZHuh9B2UxbsaEkmlEo9MfhrSzmhIlhRlI2GXnw==
 
-fflate@^0.6.9:
-  version "0.6.9"
-  resolved "https://registry.yarnpkg.com/fflate/-/fflate-0.6.9.tgz#fb369b30792a03ff7274e174f3b36e51292d3f99"
-  integrity sha512-hmAdxNHub7fw36hX7BHiuAO0uekp6ufY2sjxBXWxIf0sw5p7tnS9GVrdM4D12SDYQUHVpiC50fPBYPTjOzRU2Q==
+fflate@^0.6.11:
+  version "0.6.11"
+  resolved "https://registry.yarnpkg.com/fflate/-/fflate-0.6.11.tgz#a96bba55e3afa1cf2d4a1287190fa6d48c5adfc9"
+  integrity sha512-3JyEFWGjFn7zHmoa9+zG1BmW7X2okcmAB+0Cnu9UFbVs/jCBnl2A8o065ZlXiw145K3eBM3uLuzrYXC0RK7eDg==
 
 fs.realpath@^1.0.0:
   version "1.0.0"
